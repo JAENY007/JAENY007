@@ -1,6 +1,6 @@
 # Front-End Developer, 전재연입니다
 
-![https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjaeny007.notion.site%2FFront-End-Developer-8ad53d74fe9746bebd78c13ad3752deb&count_bg=%235AA3FC&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjaeny007.notion.site%2FFront-End-Developer-8ad53d74fe9746bebd78c13ad3752deb&count_bg=%235AA3FC&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAENY007%2FJAENY007&count_bg=%23FF9595&title_bg=%23939BA5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 🌐 **Contact & Channel**
 
