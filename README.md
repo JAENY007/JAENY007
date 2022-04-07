@@ -4,7 +4,7 @@
 
 # 🌐 **Contact & Channel**
 
-<center><img src = "Front-End%20%20eda36/KakaoTalk_20220104_164631488.jpg" width="100"></center>
+<center><img src = "Front-End%20%20eda36/KakaoTalk_20220104_164631488.jpg" width="250"></center>
 
 ✉️ **Email** | 
 
