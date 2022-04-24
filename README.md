@@ -42,29 +42,15 @@
 
 # ⚙️ **Skills**
 
-**Green** - Usable / **Purple** - Experienced
-
 ---
 
 ## Front-End
 
 ### **HTML, CSS, JavaScript**
 
-## Back-End
-
-### **Java, Python**
-
-## DataBase
-
-### **Oracle**
-
-## Framework
-
-### **Spring MVC, Spring Boot**
-
 ## Library
 
-### **React**
+### **React, Next**
 
 ## Tools & Collaboration
 
