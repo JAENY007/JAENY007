@@ -22,7 +22,7 @@
 
 [**https://www.instagram.com/choco_jaeny**](https://www.instagram.com/choco_jaeny)
 
-# 🧑🏻‍🦰 **Introduction**
+# 🗨 **Introduction**
 
 ---
 
