@@ -41,17 +41,17 @@
 
 ## Front-End
 
-### **HTML, CSS, JavaScript(ES6)**
+- **HTML, CSS, JavaScript(ES6)**
 
 ## Library & Framework
 
-### **React, Next.js, React-Query, Ant Design(UI), Recharts**
+- **React, Next.js, React-Query, Ant Design(UI), Recharts**
 
 ## Tools & Collaboration
 
-### **WebStorm, VScode, Github, Notion, Slack, Gather**
+- **WebStorm, VScode, Github, Notion, Slack, Gather**
 
-### IntelliJ Community, Eclipse, Atom
+- IntelliJ Community, Eclipse, Atom
 
 
 # 👥 Experienced & Projects
