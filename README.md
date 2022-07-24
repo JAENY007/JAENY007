@@ -51,8 +51,6 @@
 
 - **WebStorm, VScode, Github, Notion, Slack, Gather**
 
-- IntelliJ Community, Eclipse, Atom
-
 
 # 👥 Experienced & Projects
 
