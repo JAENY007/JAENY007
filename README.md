@@ -37,16 +37,13 @@
 
 # ⚙️ **Skills**
 
-**Green** - Usable / **Purple** - Experienced
-
 ---
 
 ## Front-End
 
 ### **HTML, CSS, JavaScript(ES6)**
 
-## Library &
-Framework
+## Library & Framework
 
 ### **React, Next.js, React-Query, Ant Design(UI), Recharts**
 
@@ -55,6 +52,7 @@ Framework
 ### **WebStorm, VScode, Github, Notion, Slack, Gather**
 
 ### IntelliJ Community, Eclipse, Atom
+
 
 # 👥 Experienced & Projects
 
