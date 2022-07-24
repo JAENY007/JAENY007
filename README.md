@@ -4,7 +4,7 @@
 
 # 🌐 **Contact & Channel**
 
-![KakaoTalk_20220104_164631488.jpg](Front-End%20Developer,%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8C%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%82%E1%85%B5%E1%84%83%E1%85%A1%20eda369b898854e3cbea1411edac32357/KakaoTalk_20220104_164631488.jpg)
+<center><img src = "Front-End%20%20eda36/KakaoTalk_20220104_164631488.jpg" width="250"></center>
 
 ✉️ **Email** | 
 
@@ -18,7 +18,7 @@
 
 [**https://developer-jaeny.tistory.com/**](https://developer-jaeny.tistory.com/)
 
-# 🧑🏻‍🦰 **Introduction**
+# 🧑🏻‍ **Introduction**
 
 ---
 
