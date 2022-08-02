@@ -10,10 +10,6 @@
 
 **wjswodus22@naver.com**
 
-🚀 **Github** |
-
-[**https://github.com/JAENY007**](https://github.com/JAENY007)
-
 🪶 **Blog** |
 
 [**https://developer-jaeny.tistory.com/**](https://developer-jaeny.tistory.com/)
