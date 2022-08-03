@@ -42,11 +42,19 @@
 <h3>💻 Tech Stack 💻</h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<br>
+<br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<br/><br/>
+
+![JAENY's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAENY007&show_icons=true&theme=algolia)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAENY007&hide=TeX&layout=compact)
+
 </div>
+
+
 
 <br/>
 
