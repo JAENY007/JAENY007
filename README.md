@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=200&section=header&fontSize=90)
 <div align = "center">
 <br/>
 <h3>Front-End Developer, 전재연입니다 🥳</h3>
@@ -29,10 +28,8 @@
 무작정 돌아가게 하는 코드 보다는 유지보수가 쉽게 가능한 클린 코드 작성에 관심이 있으며,
 <br/>누가보아도 이해가 가능한 코드를 작성하는데에 중심을 두고 일하고 있습니다
 <br/>조금 더 익숙해진다면, 프로세스를 개선하는 코드 작성법에 대해서도 연구하고 적용하고 싶습니다
-
 <br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAENY007%2FJAENY007&count_bg=%23FF9595&title_bg=%23939BA5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-    
 <br/><br/>
 <h3>🌐 Contact & Channel</h3>
 
@@ -49,7 +46,7 @@
 <br/><br/>
 
 ![JAENY's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAENY007&show_icons=true&theme=algolia)
-<br/>
+<br/><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAENY007&hide=TeX&layout=compact)
 
 </div>
@@ -58,4 +55,4 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=200&section=footer&fontSize=90)
