@@ -8,9 +8,6 @@
 <br/>
 <br/>
 <h3>About me</h3>
-</div>
-
-<div align = "left">
 
 안녕하세요! 0년차 프론트엔드 개발자 전재연입니다
 <br/>개발자라는 꿈을 갖기 이전에는 평범한 직장인으로 살다가,
@@ -32,10 +29,6 @@
 무작정 돌아가게 하는 코드 보다는 유지보수가 쉽게 가능한 클린 코드 작성에 관심이 있으며,
 <br/>누가보아도 이해가 가능한 코드를 작성하는데에 중심을 두고 일하고 있습니다
 <br/>조금 더 익숙해진다면, 프로세스를 개선하는 코드 작성법에 대해서도 연구하고 적용하고 싶습니다
-
-</div>
-
-<div align = "center">
 
 <br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAENY007%2FJAENY007&count_bg=%23FF9595&title_bg=%23939BA5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
