@@ -5,6 +5,8 @@
 <h3>Front-End Developer, 전재연입니다 🥳</h3><br/>
 <img src = "Front-End%20%20eda36/KakaoTalk_20220104_164631488.jpg" width="250">
 <br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAENY007%2FJAENY007&count_bg=%23FF9595&title_bg=%23939BA5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br/>
 <h3>About me</h3>
 
 안녕하세요! 0년차 프론트엔드 개발자 전재연입니다
@@ -33,9 +35,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjswodus29@gmail.com)](mailto:wjswodus29@gmail.com)
 [![Blog Badge](http://img.shields.io/badge/-Blog-yellow?style=flat-square&link=https://developer-jaeny.tistory.com)](https://developer-jaeny.tistory.com)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAENY007%2FJAENY007&count_bg=%23FF9595&title_bg=%23939BA5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 
 <br/><br/>
  
