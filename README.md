@@ -34,7 +34,7 @@
 <h3>🌐 Contact & Channel</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjswodus29@gmail.com)](mailto:wjswodus29@gmail.com)
-[![Blog Badge](http://img.shields.io/badge/-Blog-yellow?style=flat-square&link=https://developer-jaeny.tistory.com)](https://developer-jaeny.tistory.com)
+[![Blog Badge](http://img.shields.io/badge/-Blog-000000?style=flat-square&&logo=Tistory&logoColor=white&link=https://developer-jaeny.tistory.com)](https://developer-jaeny.tistory.com)
 <br/>
 <h3>💻 Tech Stack 💻</h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
