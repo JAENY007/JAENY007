@@ -11,6 +11,7 @@
 <h2>🌐 Contact & Channel</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wjswodus29@gmail.com)](mailto:wjswodus29@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:wjswodus22@naver.com)](mailto:wjswodus29@naver.com)
 [![Blog Badge](http://img.shields.io/badge/-Blog-000000?style=for-the-badge&&logo=Tistory&logoColor=white&link=https://developer-jaeny.tistory.com)](https://developer-jaeny.tistory.com)
 <br/>
 <h2>💻 Tech Stack 💻</h2>
