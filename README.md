@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=280&section=header&fontSize=90&text=Hi,%20there!&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20github%20page!&descAlignY=60&descAlign=50)
 <div align = "center">
 <br/>
 <h1>Front-End Developer, JaeYeon JEON (JAENY) 🥳</h1>
