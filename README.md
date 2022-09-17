@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header)
-
 <div align = "center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=50&duration=5000&pause=1000&color=9D9ED2&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Welcome!🥳;I'm+Front-End+Developer%2C+JAENY!">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&customColorList=25" width=100% />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=50&duration=5000&pause=1000&color=9D9ED2&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Welcome!🥳;I'm+Front-End+Developer%2C+JAENY!">
 
 <img src="https://streak-stats.demolab.com/?user=JAENY007&theme=tokyonight&hide_border=true&background=20232a" width=49.2% />
 
@@ -89,6 +89,6 @@
 <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=Adobe-After-Effects&logoColor=white"/>
 </details>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&customColorList=25" width=100% />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=footer&fontSize=90)
+</div>
