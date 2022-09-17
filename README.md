@@ -1,8 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=280&section=header&fontSize=90&text=Hi,%20there!&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20github%20page!&descAlignY=60&descAlign=50)
-<div align = "center">
-<h1>Front-End Developer, JaeYeon JEON (JAENY) 🥳</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAENY007%2FJAENY007&count_bg=%23FF9595&title_bg=%23939BA5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align = "center">
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=50&pause=500&color=9D9ED2&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Welcome!🥳;I'm+Front-End+Developer%2C+JAENY!)](https://git.io/typing-svg)
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAENY007%2FJAENY007&count_bg=%239D9ED2&title_bg=%23939BA5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h2>🌐 Contact & Channel</h2>
 
@@ -24,10 +27,11 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
 <br/><br/>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAENY007&hide=TeX&layout=compact)
-
-<img src="https://github-readme-stats.vercel.app/api?username=JAENY007&show_icons=true&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=JAENY007&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
+<br>
+<img src="https://raw.githubusercontent.com/JAENY007/github-stats/output/generated/languages.svg" width=49.2% />
+<br>
+<img src="https://streak-stats.demolab.com/?user=JAENY007&theme=tokyonight&hide_border=true&background=20232a" width=49.2% />
 
 </div>
 
