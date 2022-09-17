@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header)
 
 <div align = "center">
-<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=50&pause=500&color=9D9ED2&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=200&lines=Welcome!🥳;I'm+Front-End+Developer%2C+JAENY!)](https://git.io/typing-svg)
   
