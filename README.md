@@ -13,6 +13,10 @@
 <img src="https://raw.githubusercontent.com/JAENY007/github-stats/output/generated/languages.svg" width=49.2% />
 
 <br>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=JAENY007&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+
+<br>
 <br>
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJAENY007%2FJAENY007&count_bg=%239D9ED2&title_bg=%23939BA5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
