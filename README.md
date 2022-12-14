@@ -12,9 +12,6 @@
 
 <img src="https://raw.githubusercontent.com/JAENY007/github-stats/output/generated/languages.svg" width=49.2% />
 
-<br>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=JAENY007&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 
 <br>
 <br>
