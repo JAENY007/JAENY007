@@ -4,14 +4,15 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=50&duration=5000&pause=1000&color=9D9ED2&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Welcome!🥳;I'm+Front-End+Engineer%2C+JAENY!">
 
-<img src="https://streak-stats.demolab.com/?user=JAENY007&theme=tokyonight&hide_border=true&background=20232a" width=49.2% />
-
+<!--<img src="https://streak-stats.demolab.com/?user=JAENY007&theme=tokyonight&hide_border=true&background=20232a" width=49.2% />-->
+<br>
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=JAENY007&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
 
 <img src="https://raw.githubusercontent.com/JAENY007/github-stats/output/generated/languages.svg" width=49.2% />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jaeny007&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0&radius=8" width=99%/>
+
+<!--<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jaeny007&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0&radius=8" width=99%/>-->
 
 
 <br>
